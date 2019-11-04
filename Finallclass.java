@@ -9,6 +9,7 @@ public class Finallclass {
 		  }  
 		  catch(ArithmeticException e){System.out.println(e);}  
 		  finally{System.out.println("finally block is always executed");}  
+		  System.out.println("done");
 		 
 		  }  
 
